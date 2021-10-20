@@ -10,6 +10,15 @@ The network was trained for 125 epochs. Each epoch consisted of 117 iterations.
 
 The accuracy of the network was found to be 0.9974.
 
+##File explanation
+###part1.m
+This file contains the code used to generate the patches and save them in separate folders to classify them according to the ground truth images.
+
+###part2.m
+This file contains the code used to train and evaluate the convolutional neural network.
+
+###part1.m
+This file contains the code used to visualize the convolution layers.
 
 Reference: 
 [Benzamin, Avula, and Chandan Chakraborty. "Detection of hard exudates in retinal fundus images using deep learning." 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR). IEEE, 2018.](https://arxiv.org/ftp/arxiv/papers/1808/1808.03656.pdf)
