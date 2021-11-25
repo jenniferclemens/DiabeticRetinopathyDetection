@@ -20,6 +20,9 @@ This file contains the code used to train and evaluate the convolutional neural 
 ### part1.m
 This file contains the code used to visualize the convolution layers.
 
+### part4.m
+This file contains the code used to reconstruct the first image from the patches generated.
+
 Reference: 
 [Benzamin, Avula, and Chandan Chakraborty. "Detection of hard exudates in retinal fundus images using deep learning." 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR). IEEE, 2018.](https://arxiv.org/ftp/arxiv/papers/1808/1808.03656.pdf)
 
